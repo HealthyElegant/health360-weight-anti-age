@@ -13,8 +13,10 @@ Also from HealthyElegant:
 
 - **SmartWardrobe (AI wardrobe & styling app)**  
   GitHub: https://github.com/HealthyElegant/SMARTWARDROBE_REPO_NAME ](https://github.com/HealthyElegant/smart-wardrobe-style-and-try-on 
+  ---
   App: Google: https://play.google.com/store/apps/details?id=com.healthyandelegant.smartwardrobe&pcampaignid=web_share
-   App: Web: https://smartwardrobe-5b7ea.web.app/
+  ---
+  App: Web: https://smartwardrobe-5b7ea.web.app/
 ---
 
 ## 🌿 What is Health360: Weight & Anti-Age?
