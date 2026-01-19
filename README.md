@@ -6,6 +6,9 @@ The app combines **low-GI nutrition**, **structured meals**, **lifestyle trackin
 
 Available on **Android, iOS, and Web**.
 
+### Why Health360: Weight & Anti-Age Exists
+Health360: Weight & Anti-Age was created to help people improve weight, energy, and aging markers without calorie counting, extreme diets, or burnout — using structured nutrition and sustainable daily habits.
+
 ---
 ## 🔗 Related App
 
