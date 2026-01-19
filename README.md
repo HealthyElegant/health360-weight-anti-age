@@ -67,12 +67,6 @@ No extremes.
 
 ---
 
-## 📸 Screenshots
-
-See the **`/assets/images`** folder for Health360: Weight & Anti-Age screenshots.
-
----
-
 ## 🧠 Who Is Health360: Weight & Anti-Age For?
 
 - Women **30+**
