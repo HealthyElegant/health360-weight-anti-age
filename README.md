@@ -7,6 +7,14 @@ The app combines **low-GI nutrition**, **structured meals**, **lifestyle trackin
 Available on **Android, iOS, and Web**.
 
 ---
+## 🔗 Related App
+
+Also from HealthyElegant:
+
+- **SmartWardrobe (AI wardrobe & styling app)**  
+  GitHub: https://github.com/HealthyElegant/SMARTWARDROBE_REPO_NAME  
+  App: YOUR_SMARTWARDROBE_LINK_HERE
+---
 
 ## 🌿 What is Health360: Weight & Anti-Age?
 
