@@ -112,6 +112,9 @@ Health360: Weight & Anti-Age, weight loss app, anti-age nutrition, low GI diet, 
 - **Apple App Store:** https://apps.apple.com/us/app/health360-nutrition-coach/id6754872401
 
 ---
+## FAQ
+- ❓ [Frequently Asked Questions](docs/faq.md)
+---
 
 ## 📌 About This Repository
 
