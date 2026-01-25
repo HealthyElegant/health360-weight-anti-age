@@ -56,6 +56,101 @@ No extremes.
 - **Cross-platform sync (Android, iOS, Web)**
 
 ---
+🌿 Health360: Weight & Anti-Age is a holistic health and lifestyle app for people who want to improve weight, energy, hormones, and long-term health without extreme diets or constant calorie counting.
+
+The app combines health scans, nutrition, lifestyle tracking, anti-age tools, and AI guidance into one simple system that adapts to your body and daily life.
+
+---
+
+✨ WHAT YOU CAN DO WITH Health360: Weight & Anti-Age
+
+❤️ Health scans & body signals
+
+• Scan heart rate and stress level using your phone camera
+• See hydration and energy status to understand fatigue and burnout
+• Upload a selfie to analyze skin age, wrinkle patterns, and youth type
+• Get personalized anti-aging skincare and lifestyle tips
+• Track biological age and system health scores
+
+---
+
+🧬 Full body checkups & prevention
+
+• Complete a detailed body symptom check (digestion, hormones, stress, skin, immunity, mood, energy)
+• Take a lifestyle quiz focused on sleep, cravings, focus, and daily habits
+• Get early warnings for hormonal imbalance, inflammation, insulin resistance, and oncology-related risks
+• Manually enter blood tests (vitamin D, TSH, insulin, ferritin, CRP, ALT, and more)
+• See clear green/red indicators with simple explanations
+• Access organ-focused guides for liver, thyroid, gut, adrenals, and more
+• Learn which foods, habits, and supplements support each organ
+
+---
+
+🥗 Nutrition & meal planning
+
+• Choose ready-made meal plans (weight loss, detox, anti-stress, vegetarian, holiday reset, illness recovery, organ support)
+• Generate a personalized AI meal plan based on your goals and symptoms
+• Log meals using photos, text, or barcode scanning
+• Scan food products (bar code, photo) to see nutrition facts, glycemic index, health score, and warnings
+• View a weekly nutrition dashboard (calories, protein, fiber, sugar, food categories)
+• Use the glycemic index guide to stabilize blood sugar and reduce cravings
+• Build balanced meals with the plate builder
+• Check food combinations to improve digestion and avoid bloating
+
+---
+
+🧘 Lifestyle & habit tracking
+
+• Track water intake, sleep hours, steps, weight, mood, stress, and supplements
+• View weekly and monthly habit trends
+• Keep a supplement journal with guidance for energy, skin, sleep, stress, and hormones
+• Get stress relief tips (breathing, calming routines, anti-stress foods)
+• Receive a personalized daily to-do list with small, realistic actions
+
+---
+
+🎯 Progress, motivation & challenges
+
+• Join daily and themed challenges (hydration week, detox reset, anti-age routine, step challenges)
+• Build streaks for consistency
+• Earn badges and milestones
+• Track visual progress for weight, mood, sleep, nutrition, and habits
+• Save favorite meals, routines, and insights
+• Add personal notes about how you feel
+• Participate in challenges solo or with others
+
+---
+
+🤖 AI support & personalization
+
+• Chat with an AI health coach for daily guidance
+• Use the AI symptom checker to understand body signals
+• Get automatic suggestions after quizzes or lab input (start detox, adjust meals, add supplements)
+• Receive evolving weekly health reports combining scans, habits, nutrition, symptoms, and labs
+
+---
+
+📚 Education & learning
+
+• Access a health library covering blood sugar, gut health, hormones, sleep, stress, anti-aging, and longevity
+• Read simple guides explaining lab markers like insulin, TSH, ferritin, vitamin D, CRP
+• Follow mini-courses on meal planning, food combining, metabolism reset
+• Use detox and recovery protocols from 1 to 7 days
+• Get seasonal guidance for holidays, travel, and recovery
+• Find answers in the built-in help & FAQ center
+
+---
+
+🌱 WHY Health360: Weight & Anti-Age
+
+Health360: Weight & Anti-Age is built for people who want to:
+• Understand their body
+• Catch problems early
+• Improve weight and energy naturally
+• Build sustainable habits without extremes
+
+It does not replace medical care, but helps you become more aware, informed, and consistent in your daily health choices.
+---
 
 ## 📥 Download & Access
 
