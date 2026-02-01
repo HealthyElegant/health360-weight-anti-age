@@ -1,0 +1,18 @@
+Health360: Weight & Anti-Age
+
+AI assistant for hormonal health and biological age optimization.
+
+Summary
+Health360: Weight & Anti-Age helps women over 30 improve weight, energy, and aging markers using low-GI nutrition, physiological literacy, and structured lifestyle guidance.
+
+Technical context
+Framework: React Native / Expo
+Backend: Firebase Functions, Firestore
+Vector search: Qdrant
+AI models: OpenAI GPT-4 class, Gemini Vertex AI
+
+Core philosophy
+Anti-diet approach focused on blood sugar stability, hormonal balance, and long-term health.
+
+URL
+https://github.com/HealthyElegant/health360-weight-anti-age
